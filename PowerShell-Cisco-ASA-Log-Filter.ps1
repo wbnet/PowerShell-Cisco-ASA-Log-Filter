@@ -2,6 +2,13 @@
 # Version: 1.004
 # Author: WB
 
+# SolarWinds Kiwi Syslog Server is used to receive
+# syslog messages from Cisco ASA firewalls
+# and store locally in multiple 50 MB flat-file databases.
+
+# PowerShell script allows efficient extraction of
+# useful logs.
+
 cd "D:\MyLogFolder\"
 
 $myPattern = "10\.20\.30\.40"
