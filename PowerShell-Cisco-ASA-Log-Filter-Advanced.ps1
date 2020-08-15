@@ -1,3 +1,16 @@
+# Description: Filter Cisco ASA logs using PowerShell (Advanced Version)
+# Version: 1.002
+# Author: WB
+
+# SolarWinds Kiwi Syslog Server is used to receive
+# syslog messages from Cisco ASA firewalls
+# and store locally in multiple 50 MB flat-file databases.
+
+# PowerShell script allows efficient extraction of
+# useful logs.
+
+# --------------------------------
+
 # Enter your search criteria below.
 # Type "any" to ignore filter.
 
