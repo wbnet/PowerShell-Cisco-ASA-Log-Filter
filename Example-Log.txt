@@ -1,0 +1,3 @@
+Example log from Cisco ASA
+
+(To be added)
